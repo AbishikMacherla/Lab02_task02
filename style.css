@@ -20,3 +20,9 @@ body {
     background-color: rgb(26, 120, 115);
     color: rgb(61, 166, 158);
 }
+
+.section-custom {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    text-transform:capitalize;
+}
